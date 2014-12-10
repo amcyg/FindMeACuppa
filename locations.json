@@ -1,0 +1,76 @@
+{
+    "results": [
+        {
+            "name": "Mayfield Bakery & Cafe",
+            "latlong": "37.438881, -122.159322",
+            "address": "855 El Camino Real, Palo Alto, CA 94301",
+            "rating:": 5
+        },
+        {
+            "name": "Jimmy V Sports Cafe",
+            "latlong": "37.4219959,-122.1598861",
+            "address": "641 Campus Dr, Stanford, CA 94305",
+            "rating:": 3
+        },
+        {
+            "name": "Printers cafe",
+            "latlong": "37.4138838,-122.1586845",
+            "address": "320 S California Ave, Palo Alto, CA 94306",
+            "rating:": 4
+        },
+        {
+            "name": "Szechwan Cafe",
+            "latlong": "37.4274233,-122.1448014",
+            "address": "406 S California Ave, Palo Alto, CA 94306",
+            "rating:": 2
+        },
+        {
+            "name": "Starbucks",
+            "latlong": "37.4274745,-122.1498225",
+            "address": "2000 El Camino Real, Palo Alto, CA 94306",
+            "rating:": 1
+        },
+        {
+            "name": "Cafe Pro Bono",
+            "latlong": "37.4251399,-122.1442864",
+            "address": "2437 Birch St, Palo Alto, CA 94306",
+            "rating:": 5
+        },
+        {
+            "name": "Russo Cafe",
+            "latlong": "37.422867,-122.16711",
+            "address": "555 Salvatierra Street Stanford, CA 94305",
+            "rating": 4
+        },
+        {
+            "name": "Starbucks",
+            "latlong": "37.424162,-122.170887",
+            "address": "459 Lagunita Drive Stanford, CA 94305",
+            "rating": 4
+        },
+        {
+            "name": "CoHo",
+            "latlong": "37.424094,-122.170758",
+            "address": "459 Lagunita Drive Stanford, CA 94305",
+            "rating": 2
+        },
+        {
+            "name": "Coupa Cafe",
+            "latlong": "37.426207,-122.166939",
+            "address": "571 Escondido Mall Stanford, CA 94305",
+            "rating": 4
+        },
+        {
+            "name": "Starbucks",
+            "latlong": "37.426786,-122.153163",
+            "address": "2000 El Camino Real Palo Alto, CA 94306",
+            "rating": 4
+        },
+        {
+            "name": "3 G's cafe",
+            "latlong": "37.426922,-122.146758",
+            "address": "456 Cambridge Avenue Palo Alto, California 94306",
+            "rating": 4
+        }
+    ]
+}

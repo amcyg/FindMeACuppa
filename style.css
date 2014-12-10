@@ -1,0 +1,29 @@
+html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+      
+#search {
+  background-color: rgba(55, 55, 55, 0.7);
+  color: white;
+  font-family: Georgia;
+  font-size: 25px;
+  padding: 5px;
+  font-style: italic;
+  text-align: center;
+}
+
+#searchbar {
+  font-family: Georgia;
+  font-size: 16px;
+  padding: 2px;
+  margin-left: 10px;
+  text-align: center;
+  width: 300px;
+}
+
+.popupWindow {
+  font: Georgia;
+  
+}
